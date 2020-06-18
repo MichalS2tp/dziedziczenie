@@ -1,0 +1,2 @@
+# dziedziczenie
+dziedziczenie 
